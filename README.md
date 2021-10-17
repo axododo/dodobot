@@ -1,0 +1,2 @@
+# dodobot
+bot for discord
